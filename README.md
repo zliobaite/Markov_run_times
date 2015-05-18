@@ -7,8 +7,8 @@ data/B_IZ.csv has a header, and an entry (running time, in seconds) for the two 
 
 Tasks:
 
-EX1 - raw implementation, no libraries
-EX2 - R native matrix multiplication
-EX3 - sparse matri with R native matrix multiplication
-EX4 - sparse matrix with R native multiplication and R sparce format
-EX4raw - attempt to do raw implementation with R sparce format, very slow
+	EX1 - raw implementation, no libraries
+	EX2 - R native matrix multiplication
+	EX3 - sparse matrix with R native matrix multiplication
+	EX4 - sparse matrix with R native multiplication and R sparce format
+	EX4raw - attempt to do raw implementation with R sparce format, very slow
